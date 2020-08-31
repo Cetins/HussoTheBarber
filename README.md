@@ -1,2 +1,2 @@
 # husso-the-barber
-website with mash-up template
+ Public figure website for Husso the Barber
